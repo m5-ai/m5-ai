@@ -1,16 +1,19 @@
-## Hi there 👋
+# hi, im m5-ai
 
-<!--
-**m5-ai/m5-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## currently learning
 
-Here are some ideas to get you started:
+![c++](https://img.shields.io/badge/C%2B%2B-00599C) ![python](https://img.shields.io/badge/Python-3776AB) ![luau](https://img.shields.io/badge/Luau-2A52BE) ![typescript](https://img.shields.io/badge/TypeScript-3178C6) ![reverse engineering](https://img.shields.io/badge/reverse%20engineering-333333)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## languages i use
+
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E) ![typescript](https://img.shields.io/badge/TypeScript-3178C6) ![html](https://img.shields.io/badge/HTML-E34F26) ![css](https://img.shields.io/badge/CSS-264DE4)
+
+## languages i hate using 
+
+~~c++~~ ~~python~~ ~~luau~~
+
+## roblox projects
+- Valso (android exec)
+- Jello (ios exec)
+- wooop (mac external in private beta)
+
